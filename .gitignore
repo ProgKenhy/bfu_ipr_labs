@@ -1,2 +1,11 @@
 data/*
 .idea
+.virtual_documents
+.ipynb_checkpoints
+PennFudanPed/
+imagenet-mini/
+train/
+train_masks/
+logs/
+*logs/
+*.txt
